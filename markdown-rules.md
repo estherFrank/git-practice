@@ -2,7 +2,7 @@
 # useful markdown sytax
 
 - use \# to denote a title
-- more \#s = smaller title
+- more \#s = smaller title (use 1-6)
 - use \`\` to denote `code`
 - use \\ to display a literal character that would otherwise be formatting 
 
