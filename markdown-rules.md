@@ -5,3 +5,5 @@
 - more \#s = smaller title
 - use \`\` to denote `code`
 - use \\ to display a literal character that would otherwise be formatting 
+
+**[This](https://www.markdownguide.org/basic-syntax/) is a great page detailing loads of markdown syntax (with examples!)**
